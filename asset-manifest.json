@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-expense-tracker/static/css/main.4b998ee4.css",
+    "main.js": "/practice-expense-tracker/static/js/main.414de1f3.js",
+    "index.html": "/practice-expense-tracker/index.html",
+    "main.4b998ee4.css.map": "/practice-expense-tracker/static/css/main.4b998ee4.css.map",
+    "main.414de1f3.js.map": "/practice-expense-tracker/static/js/main.414de1f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b998ee4.css",
+    "static/js/main.414de1f3.js"
+  ]
+}
